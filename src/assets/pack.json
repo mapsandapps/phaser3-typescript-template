@@ -1,0 +1,21 @@
+{
+  "preload": {
+    "files": [
+      {
+        "type": "tilemapTiledJSON",
+        "key": "levelMap",
+        "url": "src/assets/maps/levelMap.json"
+      },
+      {
+        "type": "image",
+        "key": "tiles",
+        "url": "src/assets/tiles/tiles.png"
+      },
+      {
+        "type": "image",
+        "key": "player",
+        "url": "./src/assets/player.png"
+      }
+    ]
+  }
+}
